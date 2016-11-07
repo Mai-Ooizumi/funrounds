@@ -1,0 +1,292 @@
+"rounds"
+{
+	"1"
+	{
+		"name"			"Third person round"
+		"thirdperson"	"1"
+		"weapon"		"weapon_primary_random;weapon_secondary_random"
+		"chickendef"	"1"
+		"infiniteammo"	"2"
+		"armor"			"100"
+	}
+	"2"
+	{
+		"name"			"Dodgeball!"
+		"weapon"		"weapon_decoy"
+		"health"		"1"
+		"dodgeball"		"1"
+		"noknife"		"1"
+		"infinitenade"	"weapon_decoy"
+	}
+	"3"
+	{
+		"name"			"Speed round"
+		"weapon"		"weapon_ak47;weapon_deagle"
+		"speed"			"5"
+		"hosttime"		"2"
+		"gravity"		"300"
+		"autobhop"		"1"
+		"infiniteammo"	"2"
+		"armor"			"100"
+	}
+	"4"
+	{
+		"name"			"No recoil round"
+		"weapon"		"weapon_primary_random;weapon_secondary_random"
+		"infiniteammo"	"2"
+		"chickendef"	"1"
+		"norecoil"		"1"
+		"noscope"		"1"
+		"armor"			"100"
+	}
+	"5"
+	{
+		"name"			"Zeus round"
+		"weapon"		"weapon_taser"
+		"autobhop"		"1"
+		"chickendef"	"1"
+		"zeus"			"1"
+		"armor"			"100"
+	}
+	"6"
+	{
+		"name"			"Speed knife round"
+		"speed"			"4"
+		"hosttime"		"2"
+		"weapon"		"weapon_knife"
+	}
+	"7"
+	{
+		"name"			"Grenade round"
+		"weapon"		"weapon_hegrenade"
+		"infiniteammo"	"1"
+		"infinitenade"	"weapon_hegrenade"
+		"noknife"		"1"
+		"armor"			"100"
+	}
+	"8"
+	{
+		"name"			"Noscope round"
+		"weapon"		"weapon_ssg08"
+		"noscope"		"1"
+		"chickendef"	"1"
+		"noknife"		"1"
+		"c4"			"0"
+	}
+	"9"
+	{
+		"name"			"Negev norecoil round"
+		"weapon"		"weapon_negev"
+		"norecoil"		"1"
+		"health"		"1000"
+		"chickendef"	"1"
+		"infiniteammo"	"2"
+		"armor"			"255"
+	}
+	"10"
+	{
+		"name"			"Random gun round"
+		"weapon"		"weapon_primary_random;weapon_secondary_random"
+		"armor"			"100"
+	}
+	"11"
+	{
+		"name"			"AWP+LOWGRAVITY"
+		"weapon"		"weapon_awp;weapon_decoy"
+		"gravity"		"200"
+		"norecoil"		"1"
+		"armor"			"100"
+		"noknife"		"1"
+		"autobhop"		"1"
+	}
+	"12"
+	{
+		"name"			"Auto bhop round"
+		"weapon"		"weapon_primary_random;weapon_secondary_random"
+		"autobhop"		"1"
+		"chickendef"	"1"
+		"armor"			"100"
+	}
+	"13"
+	{
+		"name"			"Vampire"
+		"weapon"		"weapon_m4a1_silencer;weapon_usp_silencer"
+		"vampire"		"1"
+		"recoilview"	"0"
+		"infiniteammo"	"2"
+		"Pcolor"		"black"
+		"armor"			"255"
+	}
+	"14"
+	{
+		"name"			"Lets play backwards"
+		"weapon"		"weapon_primary_random;weapon_secondary_random"
+		"backwards"		"1"
+		"armor"			"100"
+	}
+	"15"
+	{
+		"name"			"Lets make map bigger!"
+		"weapon"		"weapon_primary_random;weapon_secondary_random"
+		"fov"			"150"
+		"chickendef"	"1"
+		"armor"			"100"
+	}
+	"16"
+	{
+		"name"			"Is csgo now GTA ?!"
+		"weapon"		"weapon_primary_random;weapon_secondary_random"
+		"fov"			"35"
+		"chickendef"	"1"
+		"thirdperson"	"1"
+		"armor"			"100"
+	}
+	"17"
+	{
+		"name"			"Knife！"
+		"weapon"		"weapon_knife"
+		"health"		"35"
+	}
+	"18"
+	{
+		"name"			"Headshot round!"
+		"weapon"		"weapon_ak47;weapon_deagle"
+		"headshot"		"1"
+		"armor"			"100"
+	}
+	"19"
+	{
+		"name"			"Swag + gravity!"
+		"weapon"		"weapon_mag7"
+		"gravity"		"300"
+		"infiniteammo"	"2"
+		"armor"			"100"
+		"autobhop"		"1"
+	}
+	"20"
+	{
+		"name"			"Speed change"
+		"weapon"		"weapon_primary_random;weapon_secondary_random"
+		"speedchange"	"1"
+		"gravity"		"400"
+		"autobhop"		"1"
+		"armor"			"100"
+	}
+	"21"
+	{
+		"name"			"Deagle headshot!"
+		"weapon"		"weapon_deagle"
+		"headshot"		"1"
+		"infiniteammo"	"2"
+		"armor"			"100"
+	}
+	"22"
+	{
+		"name"			"wtf is going on!"
+		"weapon"		"weapon_primary_random;weapon_secondary_random"
+		"thirdperson"	"1"
+		"infiniteammo"	"2"
+		"fov"			"150"
+		"chickendef"	"1"
+		"armor"			"100"
+	}
+	"23"
+	{
+		"name"			"Almost perfect recoil view"
+		"weapon"		"weapon_primary_random;weapon_secondary_random"
+		"recoilview"	"100"
+		"chickendef"	"1"
+		"armor"			"100"
+	}
+	"24"
+	{
+		"name"			"Rush, rush, rush!!"
+		"weapon"		"weapon_fiveseven"
+		"alwaysmove"	"1"
+	}
+	"25"
+	{
+		"name"			"AWP NoScope+HS!"
+		"weapon"		"weapon_awp"
+		"headshot"		"1"
+		"noscope"		"1"
+		"infiniteammo"	"2"
+		"norecoil"		"1"
+		"armor"			"100"
+		"health"		"200"
+	}
+	"26"
+	{
+		"name"			"lol!"
+		"weapon"		"weapon_taser"
+		"speedchange"	"1"
+		"infiniteammo"	"1"
+		"vampire"		"1"
+		"autobhop"		"1"
+		"chickendef"	"1"
+		"health"		"1000"
+	}
+	"27"
+	{
+		"name"			"AWP NoScope!"
+		"weapon"		"weapon_awp;weapon_decoy"
+		"noscope"		"1"
+		"noknife"		"1"
+		"armor"			"100"
+	}
+	"28"
+	{
+		"name"			"U CAN HS?"
+		"weapon"		"weapon_ak47;weapon_deagle"
+		"headshot"		"1"
+		"chickendef"	"1"
+		"thirdperson"	"1"
+		"armor"			"100"
+	}
+	"29"
+	{
+		"name"			"Low Gravity!"
+		"weapon"		"weapon_primary_random;weapon_secondary_random"
+		"gravity"		"200"
+		"autobhop"		"1"
+		"armor"			"100"
+	}
+	"31"
+	{
+		"name"			"No Gravity!"
+		"weapon"		"weapon_primary_random;weapon_secondary_random"
+		"gravity"		"1"
+		"infiniteammo"	"2"
+		"Pcolor"		"blue"
+		"armor"			"100"
+		"autobhop"		"1"
+	}
+	"32"
+	{
+		"name"			"FreeBuy!"
+		"freebuy"		"1"
+	}
+	"33"
+	{
+		"name"			"InfiniteAmmo!"
+		"weapon"		"weapon_primary_random;weapon_secondary_random"
+		"infiniteammo"	"1"
+		"armor"			"100"
+		"chickendef"	"1"
+	}
+	"34"
+	{
+		"name"			"FastBomb!"
+		"weapon"		"weapon_primary_random;weapon_secondary_random"
+		"armor"			"100"
+		"fastbomb"		"1"
+	}
+	"35"
+	{
+		"name"			"Free For All!"
+		"weapon"		"weapon_primary_random;weapon_secondary_random"
+		"armor"			"100"
+		"c4"			"0"
+		"ffa"			"1"
+	}
+}
